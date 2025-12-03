@@ -17,14 +17,14 @@ Key Features:
 
 Model Performance
 --- Segmentation Performance ---
-Average Dice Score: 0.7183
-Average IoU (Jaccard) Score: 0.5757
+1) Average Dice Score: 0.7183
+2) Average IoU (Jaccard) Score: 0.5757
 
 --- Classification Performance ---
-Accuracy: 0.7949
-Weighted F1-score: 0.7944
-Weighted Precision: 0.8063
-Weighted Recall: 0.7949
-Matthews Correlation Coefficient (MCC): 0.667
+1) Accuracy: 0.7949
+2) Weighted F1-score: 0.7944
+3) Weighted Precision: 0.8063
+4) Weighted Recall: 0.7949
+5) Matthews Correlation Coefficient (MCC): 0.667
 
 <img width="640" height="547" alt="download (7)" src="https://github.com/user-attachments/assets/8809e0b6-1ae2-4f4d-a51d-3f8ff4e72331" />

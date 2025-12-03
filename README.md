@@ -28,3 +28,8 @@ Model Performance
 5) Matthews Correlation Coefficient (MCC): 0.667
 
 <img width="640" height="547" alt="download (7)" src="https://github.com/user-attachments/assets/8809e0b6-1ae2-4f4d-a51d-3f8ff4e72331" />
+
+
+Use the Google Drive link for the Pth file:
+
+Link: https://drive.google.com/drive/folders/1WL8g-ovjVJMrdgIYq8Yn4QDnvqTnOWh7?usp=sharing
